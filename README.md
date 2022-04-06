@@ -1,2 +1,2 @@
 # CenturyTech
-this is my front end reactjs made with boostrap
+This is my front end reactjs website made with boostrap
